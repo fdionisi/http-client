@@ -4,12 +4,12 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-anyhow = "1.0.89"
-futures = "0.3.30"
-http = "1.1.0"
+anyhow = "1.0"
+futures = "0.3"
+http = "1.1"
 pin-project-lite = "0.2.14"
-serde = "1.0.210"
-serde_json = "1.0.128"
+serde = "1.0"
+serde_json = "1.0"
 
 [workspace]
 resolver = "2"
