@@ -4,5 +4,8 @@ version = "0.2.0"
 edition = "2021"
 
 [dependencies]
+anyhow = "1"
+futures = "0.3"
 http-client = { path = "../.." }
 reqwest = { version = "0.12", features = ["stream"] }
+tracing = "0.1"
