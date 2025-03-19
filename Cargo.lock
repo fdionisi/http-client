@@ -378,7 +378,7 @@ dependencies = [
 
 [[package]]
 name = "http-client"
-version = "0.2.0"
+version = "0.3.0"
 dependencies = [
  "anyhow",
  "async-stream",
@@ -392,7 +392,7 @@ dependencies = [
 
 [[package]]
 name = "http-client-reqwest"
-version = "0.2.0"
+version = "0.3.0"
 dependencies = [
  "anyhow",
  "futures",
